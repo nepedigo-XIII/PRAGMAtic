@@ -1,4 +1,4 @@
-# PRAGMAtic — Offline PDF RAG Using Local Ollama (GGUF)
+# PRAGMAtic — Offline RAG Using Local Ollama (GGUF)
 
 **PRAGMAtic** (`pragma.py`) provides a fully offline Retrieval-Augmented Generation (RAG) pipeline using local GGUF models through Ollama for both embedding and chat generation. It does not depend on external APIs such as Hugging Face or OpenAI and can operate in completely air-gapped environments.
 
@@ -166,3 +166,4 @@ Start the Ollama service using `ollama serve`.
 ## License
 
 Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
